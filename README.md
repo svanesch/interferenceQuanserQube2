@@ -5,6 +5,6 @@ The code in this repository provides the following functions:
 - Take measurements of the setup (voltage, angles, timestamp)
 - Allow setup to operate in free-fall (Case 1)
 - Apply white-noise to the setup (Case 2)
-- Control the setup with a stabilizing controller in the pendulums unstable equilibrium (\theta, \alpha) = (0, 0) (Case 3)
+- Control the setup with a stabilizing controller in the pendulums unstable equilibrium $(\theta, \alpha) = (0, 0)$(Case 3)
 
 
